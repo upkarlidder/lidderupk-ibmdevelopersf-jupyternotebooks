@@ -5,6 +5,13 @@
 
 ## Presentation
 [Introduction to Jupyter Notebooks on Watson Studio](asset/ibm-jupyter-notebooks.pdf)
+
+## Data
+1. Casts -  http://bit.ly/movies-cast
+2. Release Dates - http://bit.ly/movies-releases
+3. Titles - http://bit.ly/movies-titles
+4. Film Locations - http://bit.ly/movies-locations
+
 ## Useful Links
 
 1. **[Pandas Documentation](http://pandas.pydata.org/pandas-docs/stable/)** - http://pandas.pydata.org/pandas-docs/stable/
