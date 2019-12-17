@@ -7,10 +7,10 @@
 [Introduction to Jupyter Notebooks on Watson Studio](asset/ibm-jupyter-notebooks.pdf)
 
 ## Data
-1. Casts -  http://bit.ly/movies-cast
-2. Release Dates - http://bit.ly/movies-releases
-3. Titles - http://bit.ly/movies-titles
-4. Film Locations - http://bit.ly/movies-locations
+1. Casts -  https://ibm.box.com/shared/static/ym18dqhjy9nsuq88mhibdaz1xoavctnj.csv
+2. Release Dates - https://ibm.box.com/shared/static/p5rar0xuyxnxjmnosz5rrlps84mgz6ra.csv
+3. Titles - https://ibm.box.com/shared/static/y778e6d8xi36p2fsi06rimb32fhwa0ah.csv
+4. Film Locations - https://ibm.box.com/shared/static/28vpkh6kgzczeg2loucqr1wgwdz4mbm7.csv
 
 ## Useful Links
 
